@@ -31,11 +31,12 @@
 *.la
 *.a
 *.lib
-
+*.pyc
 # Executables
 *.exe
 *.out
 *.app
-
+*.env
 # debug information files
 *.dwo
+*.venv
